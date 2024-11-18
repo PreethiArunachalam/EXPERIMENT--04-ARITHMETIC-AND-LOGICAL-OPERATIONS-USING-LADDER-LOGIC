@@ -1,8 +1,8 @@
 # EXPERIMENT--04-ARITHMETIC-AND-LOGICAL-OPERATIONS-USING-LADDER-LOGIC
-#  NAME:
-# REGISTER NUMBER:
-# DEPARTMENT:
-# YEAR:
+#  NAME: PREETHI A A
+# REGISTER NUMBER: 212222110035
+# DEPARTMENT: CSE(IoT)
+# YEAR: 3
 ## Aim:
 To understand and implement various arithmetic and logical operations in Programmable Logic Controller (PLC) ladder logic.
 
@@ -75,7 +75,34 @@ Test the arithmetic and logical operations with physical push buttons and observ
 Arithmetic Operations: Verify that the output shows correct results for addition, subtraction, multiplication, and division.
 Logical Operations: Confirm that the output behaves as expected based on the logical conditions (AND, OR, NOT).
 ##  Simulation Screenshots:
-(Add screenshots of the ladder logic and operation results in the simulation software.)
+
+## Arithmetic Operations :
+
+#### ADDITION:
+
+ ![Screenshot 2024-11-18 115507](https://github.com/user-attachments/assets/ebd1b1c7-295d-489f-89f8-67cd98f81ed9)
+
+ #### SUBTRACTION :
+![{86F06901-91F7-4997-81ED-53C8B6EC2EAF}](https://github.com/user-attachments/assets/89d76c35-45f3-4671-8bc8-e5bd281dadaf)
+
+#### MULTIPLICATION :
+![{91955638-030F-4772-BD7C-91EF960E485B}](https://github.com/user-attachments/assets/ef05d5f1-ed02-43f3-b70a-bb62a24dcdea)
+
+#### DIVISION :
+![{793AC6AF-5D72-4FC9-8D51-9703F822611E}](https://github.com/user-attachments/assets/6c2c0508-7bed-411a-ab39-c992d9f42655)
+
+### Logical Operations :
+
+#### AND :
+![{3B1C1BAE-9413-440A-B19F-BE55F54B356C}](https://github.com/user-attachments/assets/d843a216-72fc-4ab9-a6fb-d535785c5128)
+
+#### OR :
+![{54846D83-7202-4770-9924-7048EBE48F90}](https://github.com/user-attachments/assets/65c527a3-5c13-4dec-bde5-7d43be7c1ae3)
+
+#### NOT :
+![{8D182062-6D11-47C0-A716-5ED1E5F9E25C}](https://github.com/user-attachments/assets/297d3684-3f5c-4e4e-83d5-430e1bd13e2d)
+
+
 
 ## Results:
 The ladder logic programs for various arithmetic and logical operations were successfully implemented and tested. The outputs were as expected, demonstrating correct calculation and logical decision-making capabilities. This experiment illustrates the essential role of arithmetic and logical functions in automated processes.
